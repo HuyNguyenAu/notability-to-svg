@@ -1,3 +1,9 @@
+# Custom
+*.html
+*.note
+!example.html
+!example.note
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
