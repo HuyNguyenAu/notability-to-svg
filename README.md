@@ -22,4 +22,8 @@ This means I had direct access to my notes in Nextcloud which allows me to easil
 ## Where is this useful?
 - View your notes outside of MAC OS or iOS.
 - Host your notes online so non-notability users can view it.
-- Archiving your notes in an open format so that you can convert it into another format in the future. 
+- Archiving your notes in an open format so that you can convert it into another format in the future.
+
+## Sources
+- Thanks to Julia Evans blog post `Reverse engineering the Notability file format` (https://jvns.ca/blog/2018/03/31/reverse-engineering-notability-format/), I was able to quickly understand how the Notability notes work.
+- Thanks to `corpnewt` tool (https://github.com/corpnewt/ProperTree) to view Notability notes I was able to build a quick understanding of the layout of the Apple plist file.
