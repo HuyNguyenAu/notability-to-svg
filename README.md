@@ -15,7 +15,7 @@ I often find my self viewing my notes on my iPad, but sometimes I'd rather view 
 
 ## Why don't you export it as a PDF or use Mac OS?
 I don't have a MAC. \
-You could try to export it to an PDF file, but then you need to send either sync it to your cloud storage or send it to yourself via email. \
+You could try to export it to an PDF file, but then you need to either sync it to your cloud storage or send it to yourself via email. \
 In my case, I had notability synced up to my Nextcloud instance via WebDAV. \
 This means I had direct access to my notes in Nextcloud which allows me to easily convert my notes on Windows.
 
