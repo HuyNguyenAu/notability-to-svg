@@ -6,7 +6,7 @@ A simple to tool to convert your Notability notes into an SVG wrapped in HTML fi
 
 ## Usage
 ```
-python main.py example.note
+$ python main.py example.note
 ```
 The script will output an HTML file.
 
