@@ -1,5 +1,5 @@
 # Notability Notes To SVG
-A simple to tool to convert your Notability notes into an SVG wrapped in HTML file.
+A simple to tool to convert your Notability note strokes into an SVG wrapped in HTML file.
 
 ## Requirements
 - Python 3
